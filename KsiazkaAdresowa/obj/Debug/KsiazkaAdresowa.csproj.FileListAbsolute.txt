@@ -1,0 +1,10 @@
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe.config
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csprojResolveAssemblyReference.cache
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.Form1.resources
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.Properties.Resources.resources
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.GenerateResource.Cache
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.pdb
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.dll
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.exe
+C:\Users\DOBRI\Desktop\programy csharp\KsiazkaAdresowa\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.pdb
